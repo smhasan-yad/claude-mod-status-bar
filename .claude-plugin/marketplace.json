@@ -1,0 +1,13 @@
+{
+    "name":  "claude-mod-status-bar",
+    "owner":  {
+                  "name":  "Hasan"
+              },
+    "plugins":  [
+                    {
+                        "description":  "Usage meters (5-hour, 7-day, context) in the mod bar\u0027s toolbar while on; a footer status line where no band is drawn.",
+                        "name":  "status-bar",
+                        "source":  "./"
+                    }
+                ]
+}

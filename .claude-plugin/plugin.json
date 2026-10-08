@@ -1,0 +1,5 @@
+{
+  "name": "status-bar",
+  "version": "0.3.0",
+  "description": "Usage meters (5-hour, 7-day, context) in the mod bar's toolbar while on; a footer status line where no band is drawn."
+}
